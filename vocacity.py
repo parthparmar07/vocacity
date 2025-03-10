@@ -4,6 +4,7 @@ import speech_recognition as sr
 from gtts import gTTS
 import google.generativeai as genai  # Import Google Generative AI
 import base64
+import pyaudio
 from transformers import pipeline
 
 # Set up Google Generative AI API key
