@@ -4,4 +4,3 @@ google-generativeai
 transformers
 torch
 gtts
-pyaudio
