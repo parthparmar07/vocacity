@@ -1,6 +1,7 @@
 streamlit
-SpeechRecognition
+speechrecognition
 google-generativeai
 transformers
 torch
 gtts
+pyaudio
