@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+google-generativeai
+transformers
+torch
+gtts
